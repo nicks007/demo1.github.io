@@ -1,0 +1,66 @@
+http://nelson.themerex.net/home-2/
+#96885f;
+back:252525
+
+https://demos.creative-tim.com/gaia-bootstrap-template-pro/index.html?_ga=2.226328474.129042011.1604751336-1745497669.1604751336
+https://trix.radiantthemes.com/
+https://www.devsnews.com/wp/beakai/services-01/
+
+https://preview.themeforest.net/item/coiffeur-hair-salon-wordpress-theme/full_screen_preview/9306758?_ga=2.50910441.1191322432.1604141557-1966196779.1565890935
+https://dahz.daffyhazan.com/kitring/home-barber-men/
+https://www.devsnews.com/wp/termico/
+https://codepen.io/kyorosweb/pen/pNmmym slider image
+
+
+https://uicookies.com/free-landing-page-templates/
+https://uicookies.com/bootstrap-4-carousel/
+http://preview.themeforest.net/item/massage-therapist-and-spa-salon-theme/full_screen_preview/19352391?_ga=2.244872389.1191322432.1604141557-1966196779.1565890935
+
+
+
+
+
+<section class="three-item-thumnail">
+
+  <div class="item-title-name">
+     
+     <span class="small-name">service</span>
+     <h1>what do it</h1>
+  </div>
+
+  <div class="container content">
+    <div class="row">
+      <div class="col-lg-4">
+        <div class="img-area1">
+          <div class="overlap">
+          <h3>hair styles</h3>
+          <p>look for better and fabulous</p>
+        </div>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="img-area2">
+           <div class="overlap">
+          <h3>hair styles</h3>
+          <p>look for better and fabulous</p>
+        </div>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="img-area3">
+            <div class="overlap">
+          <h3>hair styles</h3>
+          <p>look for better and fabulous</p>
+        </div>
+        </div>
+      </div>
+        
+
+
+      </div>
+  </div>
+</section>
+
+
+
+
